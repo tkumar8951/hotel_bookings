@@ -6,4 +6,4 @@ Data Analysis Project Steps:
 2. Identification of data to be analyzed.
 3. Data exploration and cleaning.
 4. Data analysis and getting useful insights.
-5. Presentation of data in terms of reports using visualization.
+5. Presentation of data in terms of report using visualization.
